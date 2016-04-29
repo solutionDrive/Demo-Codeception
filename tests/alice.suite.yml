@@ -1,0 +1,4 @@
+class_name: AliceTester
+modules:
+    enabled:
+        - \Helper\Alice
