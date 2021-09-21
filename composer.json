@@ -3,7 +3,7 @@
     "description": "For a Session at www.devops-camp.de",
     "type": "project",
     "require": {
-        "codeception/codeception": "^2.1"
+        "codeception/codeception": "^4.1"
     },
     "license": "MIT",
     "minimum-stability": "stable"
